@@ -45,4 +45,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 
 ## Licença
 
-[Especifique a licença do seu projeto, como MIT, GPL, etc.]
+ GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
